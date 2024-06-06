@@ -1,8 +1,6 @@
-![](https://lh6.googleusercontent.com/X6oOme2LltwAWHYXXhOD_-Ghm2MVYklyNNXfn1u5iKgO1otHIJicZhNplLasCRi83D-pPMFtIxB-MTjC86MCtly45nn4ZtlroqUDjEMNo9ch6RwD8e1Z92mJ75zhg5nXOEPdGdShP3uXAYQB0A)
 
-![](https://lh4.googleusercontent.com/Fs7lRwjN44Y65LvcBAUJeKT0Fcn3hUf5dquMEiBba8eHLdq4csdCcTvFKJmc9ZRQDohRlGkPa3j9lJc-wwSFqoAELUD9OHn5a8sMgoP3aEoRTBQlVnE9PzWl0E2PmGGBEgoH_0tciKxWCU9HzQ)
 
-# Zero Trust AWS GWLB QwikLab Guide
+# Zero Trust AWS GWLB
 
 # Overview
 
@@ -54,7 +52,7 @@ In this section, we will launch the lab environment. These are the steps that we
 
 ## Start qwiklabs lab environment and login to AWS
 
-1. Log in to the [Qwiklabs portal](https://paloaltonetworks.qwiklabs.com) and click on the "Zero Trust AWS GWLB lab" on the home page. If you do not have access to the lab, please reach out to the lab instructor to get the access.
+1. Log in to yiur AWS Acconnt and click on the "Zero Trust AWS GWLB lab" on the home page. If you do not have access to the lab, please reach out to the lab instructor to get the access.
 2. On the Qwiklab environment, Click on _Start Lab_ Button to start the lab.
 
 ![](https://lh4.googleusercontent.com/wXAOGK-7HvYZu-lbXJxHydwjSFSJk81MhhkU1DRAOXxInW0yCmVFFyL0ehuoESNBx1wFcFO7EttbnZwYDi6mah4ktoB3xIxjvrfa14j2RoWlNKIvcu60SqPobl5kayN-cbcHZ8a2wzG3BA6XNg)
